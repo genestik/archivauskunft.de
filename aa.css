@@ -1,0 +1,217 @@
+/* CSS Document */
+
+	 	a {
+	 	font-family : Arial, Arial CE, Arial Hebrew, Sans Serif;
+	 	font-size : 11pt;
+	 	color : #000000;
+	 	font-weight : bold;
+	 	text-decoration : underline;
+
+}
+
+		
+ 
+	 	A:link {
+	 	font-family : Arial, Arial CE, Arial Hebrew, Sans Serif;
+	 	font-size : 11pt;
+	 	color : #000000;
+	 	font-weight : bold;
+	 	text-decoration : underline;
+}
+	 	A:hover {
+	 	font-family : Arial, Arial CE, Arial Hebrew, Sans Serif;
+	 	font-size : 11pt;
+	 	color : #cc3333;
+	 	text-decoration : none;
+	 	font-weight : bold;
+}
+	 	A:active {
+	 	font-family : Arial, Arial CE, Arial Hebrew, Sans Serif;
+	 	font-size : 11pt;
+	 	color : #cc3333;
+	 	text-decoration : none;
+	 	font-weight : bold;
+}
+
+ img {border:none}
+ 
+	 	.liste {
+	 	color : #cc3333;
+}
+	 	.ohne {
+	 	text-decoration : none;
+}
+.kleinschwarz {
+	 	font-size : 8pt;
+	 	color : #000000;
+	 	
+}
+	 	.klein {
+	 	font-size : 8pt;
+	 	color : #cc3333;
+	 	text-decoration : none;
+}
+	.access {
+	color: white;
+	font-size: 1pt;
+	}
+	 	.tipp {
+	 	background : #cc3333;
+	 	font-family : Arial, Arial CE, Arial Hebrew, Sans Serif;
+	 	font-size : 12pt;
+	 	font-weight : bold;
+	 	color : white;
+}
+	 	.fettschwarz {
+	 	color : #000000;
+	 	font-family : Arial, Arial CE, Arial Hebrew, Sans Serif;
+	 	font-size : 12pt;
+	 	font-weight : bold;
+		line-height : 1.7;
+}
+	 	.fettrot {
+	 	color : #cc3333;
+	 	font-family : Arial, Arial CE, Arial Hebrew, Sans Serif;
+	 	font-size : 12pt;
+	 	font-weight : bold;
+}
+	 	.text {
+	 	font-family : Arial, Arial CE, Arial Hebrew, Sans Serif;
+	 	font-size : 11pt;
+	 	font-weight : normal;
+	 	color : #444444;
+	 	text-align : justify;
+	 	line-height : 1.7;
+}
+	 	.ctext {
+	 	font-family : Arial, Arial CE, Arial Hebrew, Sans Serif;
+	 	font-size : 9pt;
+	 	font-weight : normal;
+	 	color : #444444;
+	 	text-align : center;
+	 	line-height : 1.7;
+}
+	 	.btext {
+	 	font-family : Arial, Arial CE, Arial Hebrew, Sans Serif;
+	 	font-size : 11pt;
+	 	font-weight : normal;
+	 	text-align : justify;
+	 	line-height : 1.3;
+	 	color : #444444;
+}
+	 	.baustelle {
+	 	font-family : Arial, Sans Serif;
+	 	font-size : 11pt;
+	 	font-weight : normal;
+	 	color : #666666;
+	 	text-align : center;
+	 	line-height : 1.7;
+}
+	 	.htext {
+	 	font-family : Arial, Arial CE, Arial Hebrew, Sans Serif;
+	 	font-size : 12pt;
+	 	font-weight : normal;
+	 	color : #666666;
+	 	text-align : right;
+	 	line-height : 1.7;
+}
+	 	.rot {
+	 	font-family : Arial, Arial CE, Arial Hebrew, Sans Serif;
+	 	font-size : 12px;
+	 	text-decoration : underline;
+}
+
+.groﬂbuchstabe {
+	 	font-family : Arial, Arial CE, Arial Hebrew, Sans Serif;
+	 	font-size : 82px;
+	 	font-weight : bold;
+}
+	 	.mitrahmen {
+	 	border : 1pt solid black;
+}
+	 	.mitte {
+	 	vertical-align : middle;
+}
+	 	td {
+	 	padding-top : 1px;
+	 	padding-right : 1px;
+	 	padding-left : 1px;
+	 	color : WindowText;
+	 	font-size : 9pt;
+	 	font-weight : 400;
+	 	font-style : normal;
+	 	text-decoration : none;
+	 	font-family : Geneva;
+	 	vertical-align : bottom;
+	 	border : medium none inherit;
+	 	white-space : nowrap;
+}
+th {
+	 	padding-top : 1px;
+	 	padding-right : 1px;
+	 	padding-left : 1px;
+	 	color : WindowText;
+	 	font-size : 9pt;
+	 	font-weight : 400;
+	 	font-style : normal;
+	 	text-decoration : none;
+	 	font-family : Geneva;
+	 	vertical-align : bottom;
+	 	border : medium none inherit;
+	 	white-space : nowrap;
+}
+	 	.xl24 {
+	 	color : #dd0806;
+	 	border : 1pt solid black;
+	 	vertical-align : top;
+}
+	 	.xl25 {
+	 	color : #dd0806;
+	 	border : 1pt solid black;
+	 	background : #dd0806;
+}
+	 	.xl26 {
+	 	border : 1pt solid black;
+	 	background : #dd0806;
+}
+	 	.xl27 {
+	 	vertical-align : top;
+	 	border : 1pt solid black;
+	 	white-space : nowrap;
+}
+	 	.xl28 {
+	 	color : #dd0806;
+	 	border : 1pt solid black;
+}
+	 	.xl29 {
+	 	vertical-align : top;
+	 	border : 1pt solid black;
+	 	background : #dd0806;
+}
+	 	.xl30 {
+	 	text-align : left;
+	 	border : 1pt solid black;
+}
+	 	.xl31 {
+	 	vertical-align : top;
+	 	border : 1pt solid black;
+}
+	 	.xl32 {
+	 	vertical-align : middle;
+	 	border : 1pt solid black;
+	 	background : silver;
+}
+	 	.xl33 {
+	 	border : 1pt solid black;
+	 	background : silver;
+}
+	.xl34 {
+	color : #dd0806;
+	border : 1pt solid black;
+	background : silver;
+}
+
+        li {
+	 	text-align : left;
+        }
+
